@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\paulina\documents\visual studio 2013\projects\metodynumeryczne\ukladyrownanliniowych\source.cpp(73): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\paulina\documents\visual studio 2013\projects\metodynumeryczne\ukladyrownanliniowych\source.cpp(75): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\paulina\documents\visual studio 2013\projects\metodynumeryczne\ukladyrownanliniowych\source.cpp(77): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\paulina\documents\visual studio 2013\projects\metodynumeryczne\ukladyrownanliniowych\source.cpp(261): warning C4101: 'liczbaIteracji' : unreferenced local variable
+  UkladyRownanLiniowych.vcxproj -> C:\Users\Paulina\Documents\Visual Studio 2013\Projects\MetodyNumeryczne\Debug\UkladyRownanLiniowych.exe
